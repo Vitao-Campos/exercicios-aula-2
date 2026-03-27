@@ -1,0 +1,21 @@
+{
+  "name": "exercicioaula2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitao-Campos/exercicios-aula-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vitao-Campos/exercicios-aula-2/issues"
+  },
+  "homepage": "https://github.com/Vitao-Campos/exercicios-aula-2#readme"
+}
